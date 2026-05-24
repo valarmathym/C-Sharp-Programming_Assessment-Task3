@@ -86,7 +86,5 @@ Through this assessment, I developed:
 
 ## 👨‍💻 Author
 
-**Valarmathy Murugan**
-
-TAFE Cert IV Programming Student  
+**Valarmathy Murugan** 
 C# Object-Oriented Programming Assessment
